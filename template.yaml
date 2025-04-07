@@ -1,1 +1,3 @@
 template-file-path: resource-creation-template.yaml
+parameters: {}
+tags: {}
